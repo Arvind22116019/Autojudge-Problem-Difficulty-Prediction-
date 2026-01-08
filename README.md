@@ -2,6 +2,10 @@
 AutoJudge is a machine learning–based system that automatically predicts the difficulty class (Easy / Medium / Hard) and a numerical difficulty score for programming problems using only their textual descriptions.
 The system combines Natural Language Processing (NLP) with machine learning models and provides a simple Streamlit web interface for real-time predictions.
 
+## 🎥 Project Demo
+
+[Watch Demo Video](https://www.youtube.com/watch?v=gpXy-RI9nZM)
+
 📌 Project Objectives
 
 Automatically classify programming problems into:
